@@ -1,0 +1,12 @@
+<svg width="460px" height="460px" viewBox="-14 -31 460 460" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g id="logo">
+		<circle id="head" fill="#9F492D" fill-rule="nonzero" cx="216" cy="216" r="181"></circle>
+		<path d="M373,307 C341,253 283,217 216,217 C148,217 90,253 59,307 C90,361 148,397 216,397 C283,397 341,361 373,307 Z" id="face" fill="#BA7360" fill-rule="nonzero" transform="translate(0, -4) scale(1, 1.01)"></path>
+		<path d="M123,183 C132,183 140,190 140,200 C140,209 132,217 123,217 C113,217 106,209 106,200 C106,190 113,183 123,183 Z M309,183 C318,183 326,190 326,200 C326,209 318,217 309,217 C299,217 292,209 292,200 C292,190 299,183 309,183 Z" id="eyes" fill="#481C02" fill-rule="nonzero"></path>
+		<ellipse id="nose" fill="#481C02" fill-rule="nonzero" cx="216" cy="219" rx="36" ry="18"></ellipse>
+		<path d="M353,0 C396,0 432,35 432,79 C432,122 396,158 353,158 C309,158 274,122 274,79 C274,35 309,0 353,0 Z M79,0 C122,0 158,35 158,79 C158,122 122,158 79,158 C35,158 0,122 0,79 C0,35 35,0 79,0 Z" id="ears" fill="#9F492D" fill-rule="nonzero"></path>
+		<path d="M353,35 C377,35 397,54 397,79 C397,103 377,123 353,123 C328,123 309,103 309,79 C309,54 328,35 353,35 Z M79,35 C103,35 123,54 123,79 C123,103 103,123 79,123 C54,123 35,103 35,79 C35,54 54,35 79,35 Z" id="ears-hl" fill="#C98241" fill-rule="nonzero"></path>
+		<path d="M151,282 C151,282 179,294 215,294 C252,294 280,282 280,282" id="mouse" stroke="#481C01" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"></path>
+		<path d="M216,238 L216,287" id="v-nose" stroke="#481C01" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+	</g>
+</svg>
