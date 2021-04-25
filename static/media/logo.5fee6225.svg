@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="116" viewBox="-58 -58 116 116" class="logoBox" preserveAspectRatio="xMidYMid meet" style="vertical-align:top;">
+    <defs>
+        <polygon id="center" points="10.392304845413264,42 0,48 -10.392304845413264,42 -10.392304845413264,-42 0,-48 10.392304845413264,-42" style="fill: rgba(136, 50, 119, 0); stroke-width: 3px; stroke-linecap: round; stroke-linejoin: bevel;">
+        </polygon>
+        <polygon id="right" points="20.784609690826528,11.999999999999993 41.569219381653056,23.999999999999996 41.569219381653056,-23.999999999999996 20.784609690826528,-36" style="fill: rgba(136, 50, 119, 0); stroke: #fff045; stroke-width: 3px; stroke-linecap: round; stroke-linejoin: round;">
+        </polygon>
+        <polygon id="left" points="-20.784609690826528,36 -41.569219381653056,23.999999999999996 -41.569219381653056,-23.999999999999996 -20.784609690826528,-11.999999999999993" style="fill: rgba(136, 50, 119, 0); stroke: #fff045; stroke-width: 3px; stroke-linecap: round; stroke-linejoin: round;">
+        </polygon>
+    </defs>
+    <use href="#center" style="stroke: white">
+        <animate  attributeName="stroke-dasharray" values="0%, 50%;25%, 25%; 25%, 25%;0%, 50%" dur="3s" repeatCount="indefinite"></animate>
+        <animate  attributeName="stroke-dashoffset" values="-10%;-35%;-35%;-60%" dur="3s" repeatCount="indefinite"></animate>
+    </use>
+    <use href="#center" style="stroke: #fff045; stroke-width: 9px;">
+        <animate  attributeName="stroke-dasharray" values="0%, 50%;25%, 25%;25%, 25%;0%, 50%;" dur="3s" repeatCount="indefinite"></animate>
+        <animate  attributeName="stroke-dashoffset" values="-10%;-60%;-60%;-110.%" dur="3s" repeatCount="indefinite"></animate>
+    </use>
+    <use href="#right" style="stroke-dasharray: 100%, 80%">
+        <animate attributeName="stroke-dashoffset" values="500%;0" dur="12s" repeatCount="indefinite"></animate>
+    </use>
+    <use href="#left" style="stroke-dasharray: 100%, 80%">
+        <animate attributeName="stroke-dashoffset" values="300%;0" dur="12s" repeatCount="indefinite"></animate>
+    </use>
+</svg>
